@@ -1,9 +1,6 @@
 'use client';
 
 import { TopBar, Footer } from '@/components';
-import { PartyHome, SystemCompra } from '@/assets';
-import Image from 'next/image';
-import { Button } from '@/components/ui/button';
 import ProductCard from '@/components/product-card';
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';

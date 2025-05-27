@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { ItemCart, RedSidebar } from '@/components';
-import { ShoppingCart } from 'lucide-react';
+import { ShoppingCart, ArrowLeft } from 'lucide-react';
 import { useCart } from '@/contexts/CartContext';
 import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
@@ -15,7 +15,19 @@ const CartPage = () => {
     <div style={{ display: 'flex', height: '100vh' }}>
       {/* Conteúdo principal */}
       <div className="flex-1 pt-9 pl-[69px] pr-4 gap-[82px] overflow-y-auto">
-        <div className="flex gap-[38px] items-center">
+        {/* Botão de voltar */}
+        <div className="absolute top-6 left-6">
+          <Button 
+            variant="ghost" 
+            className="p-2 hover:bg-[#d53232] rounded-full cursor-pointer"
+            onClick={() => router.back()}
+          >
+            <ArrowLeft size={24} />
+          </Button>
+        </div>
+        
+        {/* Aumentando o espaço com margin-top (mt-10) */}
+        <div className="flex gap-[38px] items-center mt-10">
           <ShoppingCart size={54} />
           <h1 className="font-bold text-[48px]">CARRINHO</h1>
         </div>

@@ -26,7 +26,7 @@ const ItemCart: React.FC<ItemCartProps> = ({ image, description, price, onRemove
       {onRemove && (
         <button 
           onClick={onRemove}
-          className="ml-auto text-red-500 hover:text-red-700 px-4 py-2"
+          className="ml-auto text-red-500 hover:text-red-700 px-4 py-2 cursor-pointer"
         >
           Remover
         </button>

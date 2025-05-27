@@ -35,14 +35,14 @@ const RedSidebar: React.FC = () => {
 
   if (isLoading) {
     return (
-      <div className="w-1/3 bg-red-500 text-white pt-6 pl-8 pr-7 pb-8">
+      <div className="w-1/3 bg-[#d53232] text-white pt-6 pl-8 pr-7 pb-8">
         <h2 className="text-[20px] font-bold">Carregando seu carrinho...</h2>
       </div>
     );
   }
 
   return (
-    <div className="w-1/3 bg-red-500 text-white pt-6 pl-8 pr-7 pb-8">
+    <div className="w-1/3 bg-[#d53232] text-white pt-6 pl-8 pr-7 pb-8">
       {/* Header */}
       <div className="mb-4">
         <h2 className="text-[20px] font-bold">

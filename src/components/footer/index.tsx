@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import { Instagram, X, Facebook } from 'lucide-react';
-import { PartyLogo, LogoCompra, CompraLogo } from '@/assets';
+import { LogoCompra } from '@/assets';
 
 
 

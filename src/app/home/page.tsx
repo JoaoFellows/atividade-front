@@ -1,7 +1,7 @@
 'use client';
 
 import { TopBar, Footer } from '@/components';
-import { SystemCompra } from '@/assets';
+import { PartyHome, SystemCompra } from '@/assets';
 import Image from 'next/image';
 import { Button } from '@/components/ui/button';
 import ProductCard from '@/components/product-card';
@@ -109,7 +109,7 @@ export default function Home() {
             </p>
           </div>
           <Button 
-            className="text-black bg-white h-10 text-lg hover:bg-gray-100 cursor-pointer"
+            className="text-black bg-white h-10 text-lg hover:bg-gray-100"
             onClick={() => window.scrollTo({ top: document.getElementById('all-products')?.offsetTop, behavior: 'smooth' })}
           >
             Ver todos

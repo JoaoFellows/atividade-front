@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imageURL": "https://imgcentauro-a.akamaihd.net/800x800/976456NDA2.jpg",
+      "price": "139",
+      "description": "Camiseta Los Angeles Lakers NBA Nike - Masculina",
+      "category": "roupa"
+    },
+    {
+      "id": "2",
+      "imageURL": "https://m.media-amazon.com/images/I/711NUjxK6zL._AC_UL320_.jpg",
+      "price": "479",
+      "description": "LEGO Set Disney Classic 43249 Stitch 730 peças",
+      "category": "brinquedo"
+    },
+    {
+      "id": "3",
+      "imageURL": "https://m.media-amazon.com/images/I/71ANJQTALWL._AC_SX679_.jpg",
+      "price": "3950",
+      "description": "PlayStation®5 Slim Edição Digital com 2 Jogos",
+      "category": "eletrônico"
+    },
+    {
+      "id": "4",
+      "imageURL": "https://static.zara.net/assets/public/15d9/fd17/93bb4ddabbcf/8adc022bba21/07869696800-e1/07869696800-e1.jpg?ts=1745927185103&w=1024",
+      "price": "629",
+      "description": "Blazer vestido com cinto",
+      "category": "roupa"
+    },
+    {
+      "id": "5",
+      "imageURL": "https://m.media-amazon.com/images/I/51HvjwRCBJL._AC_SX679_.jpg",
+      "price": "1799",
+      "description": "Notebook ASUS Vivobook GO 15, Intel Celeron Dual Core N4500, 4 GB, 128 GB SSD W11 Home, 15,60 LED, Star Black",
+      "category": "eletrônico"
+    },
+    {
+      "id": "6",
+      "imageURL": "https://imgcentauro-a.akamaihd.net/336x229/9906593GA2.jpg?v=0",
+      "price": "199",
+      "description": "Tênis Olympikus Corre 3 - Masculino",
+      "category": "roupa"
+    },
+    {
+      "id": "7",
+      "imageURL": "https://m.media-amazon.com/images/I/71YVBa7zc5L._AC_UL320_.jpg",
+      "price": "149",
+      "description": "Echo Dot 5ª geração com Relógio | Smart Speaker com Alexa",
+      "category": "eletrônico"
+    },
+    {
+      "id": "8",
+      "imageURL": "https://m.media-amazon.com/images/I/71ZsHvbZ-uL._AC_UL320_.jpg",
+      "price": "499",
+      "description": "Drone DJI Tello Boost Combo - HD 720p",
+      "category": "eletrônico"
+    },
+    {
+      "id": "9",
+      "imageURL": "https://m.media-amazon.com/images/I/712JlBgtkJL._AC_UL320_.jpg",
+      "price": "89",
+      "description": "Kindle 11ª geração com iluminação embutida - 6” - 16 GB",
+      "category": "eletrônico"
+    },
+    {
+      "id": "10",
+      "imageURL": "https://m.media-amazon.com/images/I/71dM8IFMWqL._AC_UL320_.jpg",
+      "price": "379",
+      "description": "Barbie Dreamtopia - Unicórnio Mágico e Princesa",
+      "category": "brinquedo"
+    },
+    {
+      "id": "11",
+      "imageURL": "https://static.zara.net/assets/public/fe8c/fa4c/52934654beab/c7ac1bd84040/03046028710-e1/03046028710-e1.jpg?ts=1733392249748&w=1920",
+      "price": "329",
+      "description": "Jaqueta bomber com bolsos utilitários",
+      "category": "roupa"
+    },
+    {
+      "id": "12",
+      "imageURL": "https://m.media-amazon.com/images/I/61GElLiaorL._AC_UL320_.jpg",
+      "price": "2599",
+      "description": "Monitor Gamer LG Ultragear 27” Full HD 180Hz 1ms IPS",
+      "category": "eletrônico"
+    },
+    {
+      "id": "13",
+      "imageURL": "https://m.media-amazon.com/images/I/71NZ4m2GbHL._AC_UL320_.jpg",
+      "price": "89",
+      "description": "Hot Wheels Pista Loop Infinito com Carrinho",
+      "category": "brinquedo"
+    },
+    {
+      "id": "14",
+      "imageURL": "https://imgcentauro-a.akamaihd.net/800x800/99314602A2.jpg",
+      "price": "238",
+      "description": "Short-Saia Nike Dri-FIT Victory Skirt Standard Adulto",
+      "category": "roupa"
+    },
+    {
+      "id": "15",
+      "imageURL": "https://m.media-amazon.com/images/I/71Lfdm4co8L._AC_UL320_.jpg",
+      "price": "139",
+      "description": "Quebra-Cabeça 3D Puzzle Ball Harry Potter - 500 peças",
+      "category": "brinquedo"
+    }
+  ],
+  "carts": [
+    {
+      "id": "user_cart",
+      "items": []
+    }
+  ]
+}
